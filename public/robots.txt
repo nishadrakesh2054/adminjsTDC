@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.thunderbolts.com.np
+
+# Sitemaps
+Sitemap: https://www.thunderbolts.com.np/sitemap.xml
